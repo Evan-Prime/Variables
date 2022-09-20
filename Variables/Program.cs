@@ -42,7 +42,7 @@ namespace Variables
             
             lapTime = 65.357f; // Set "lapTime" to 65.357
             
-            Console.WriteLine("New Laptime: " + lapTime); // Display New Laptime: "lapTime"
+            Console.WriteLine("Your new Laptime: " + lapTime); // Display Your new Laptime: "lapTime"
             Console.WriteLine(""); // Adding a space on the Display
 
             // String (text)
